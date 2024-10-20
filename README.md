@@ -14,7 +14,7 @@ A simplified clone of YouTube's UI built using HTML and CSS. This project focuse
    \`\`\`bash
    git clone https://github.com/yourusername/youtube-clone.git
    \`\`\`
-2. Open the \`index.html\` file in your browser to view the project.
+2. Open the \`youtube.html\` file in your browser to view the project.
 
 ## Usage
 - Navigate through the different sections to see the layout structure.
