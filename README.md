@@ -12,7 +12,7 @@ A simplified clone of YouTube's UI built using HTML and CSS. This project focuse
 ## Installation
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/om04patel/youtubeClone.git
    \`\`\`
 2. Open the \`youtube.html\` file in your browser to view the project.
 
